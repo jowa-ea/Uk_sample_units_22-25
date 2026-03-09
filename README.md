@@ -3,7 +3,7 @@
 This repository contains publicly available annotated sample points for seasons 2022 to 2025.
 
 ### Metadata
-Each shapefiles contains annotated points for seasons 2022 to 2025 and has 10 attributes:\
+Each geopackage contains annotated points for seasons 2022 to 2025 and has 10 attributes:\
 
 **lat** (float) latitude of the point \
 **lon** (float) longitude of the point \
@@ -17,4 +17,5 @@ Each shapefiles contains annotated points for seasons 2022 to 2025 and has 10 at
 **Year** (int) Year of mapping and annotation\
 
 ### Citing this data
-Wagner, Josef and Skakun, Sergii and Nair, Shabarinath S. and Baber, Sheila and Sadeh, Yuval and Oliinyk, Oleksandra and Poliakov, Danilo and Vaskivskyi, Bohdan and Misiura, Oleksii and Kussul, Nataliaa and Prykhodko, Dmytro and Sikachyna, Oleksandr and Rajaoberison, Andry and Li, Fangjie and Chevassu, Emma and Rehbinder, Jean and Nerry, Francoise and Mitkish, Mary and Becker-Reshef, Inbal, Estimating Winter Crop Planted Areas with Remote Sensing Imagery in War-Affected Ukraine. Available at SSRN: https://ssrn.com/abstract=5196729 or http://dx.doi.org/10.2139/ssrn.5196729
+Wagner, J., Skakun, S., Nair, S.S. et al. Monitoring winter crop areas during wartime: remote sensing support for Ukraine’s agricultural statistics. npj Sustain. Agric. 4, 1 (2026). https://doi.org/10.1038/s44264-025-00119-4
+
